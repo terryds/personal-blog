@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog of Terry Djony`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Terry Djony`,
+      bio: `who founded Chatbiz at age 19, with a dream to make a big economy impact to SMEs with a product that everybody loves. Mostly write about product, tech, startup building.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `This is the blog of Terry Djony who founded Chatbiz.id at age 19, with a dream to make a big economy impact to SMEs with a product everyone can use`,
+    siteUrl: `https://terrydjony.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Terry_Djony`,
     },
   },
   plugins: [
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Blog of TerryDjony`,
+        short_name: `TerryDS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#005b99`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/android-chrome-512x512.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
