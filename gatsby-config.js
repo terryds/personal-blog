@@ -3,9 +3,9 @@ module.exports = {
     title: `Blog of Terry Djony`,
     author: {
       name: `Terry Djony`,
-      bio: `who founded Chatbiz at age 19, with a dream to make a big economy impact to SMEs with a product that everybody loves. Mostly write about product, tech, startup building.`
+      bio: `, a Gen-Z technopreneur, currently building Chatbiz which helps people scale their businesses on social media and messaging channels. Passionate in building products that people love.`
     },
-    description: `This is the blog of Terry Djony who founded Chatbiz.id at age 19, with a dream to make a big economy impact to SMEs with a product everyone can use`,
+    description: `This is the blog of Terry Djony who founded Chatbiz.id at age 19, with a dream to help Indonesia become a developed country by accelerating digital transformation of traditional SMEs with products that everybody loves`,
     siteUrl: `https://terrydjony.com`,
     social: {
       twitter: `Terry_Djony`,
